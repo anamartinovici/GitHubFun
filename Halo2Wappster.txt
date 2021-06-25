@@ -1,0 +1,3 @@
+Hello my name is Nicolas
+I live and work in Basel (Switzerland) and started my PhD in February this year. 
+I'm interested in the ethical use of AI, especially transparent AI (i.e. explainable AI) for end-users. I'm looking forward to learn something about git and how to collaborate on GitHub. Not working. 
