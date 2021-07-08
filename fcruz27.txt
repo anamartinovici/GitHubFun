@@ -1,1 +1,3 @@
 I would like to thank Ana for all the time spent when considering how to help me fix a couple errors I was getting!
+Using the shell I was able to push the changes
+Now I am going to try and see if it works through the RStudio interface
