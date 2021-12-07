@@ -1,2 +1,0 @@
-My name is Claudia, 
-I have worked with git before, but used smartgit. Now I'd like to learn using it with RStudio.
