@@ -1,0 +1,5 @@
+Hi everyone,
+
+I am a junior researcher in behavioural economics. I have done my fair share of coding in R, but I have never used Github in spite of many people talking about it. This workshop is the perfect opportunity for me to start working with Github. 
+
+Kind regards, Elric
