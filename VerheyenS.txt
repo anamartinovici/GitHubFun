@@ -1,1 +1,0 @@
-Hi, I am Steven Verheyen, assistant professor at DPECS. This is my first time using Git.

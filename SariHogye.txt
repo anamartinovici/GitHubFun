@@ -1,1 +1,0 @@
-Hello, I am Sari Hogye, a PhD student at DPAS, ESSB. This is my first time using Git.
