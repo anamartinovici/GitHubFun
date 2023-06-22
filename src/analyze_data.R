@@ -1,9 +1,10 @@
 library("tidyverse")
 
-load("tmp/processed_data.RData")
+load(here::here("tmp", "processed_data.RData"))
 
 data_plot <- df_data %>%
-  ggplot(aes(x = message_framing, y = product_satisfaction, fill = complexity_level)) +
+  ggplot(aes(x = message_framing, y = product_satisfaction, 
+             fill = complexity_level)) +
   geom_boxplot(position = "dodge")
 
 ggsave(plot = data_plot,
