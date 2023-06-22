@@ -7,7 +7,8 @@ tmp/analyze_data: tmp/process_data \
 	date > $@
 	@echo ""
 	
-tmp/process_data: data/raw_data.csv src/create_processed_data.R
+tmp/process_data: data/simulated_data.csv \
+									src/create_processed_data.R
 	$(print-target-and-prereq-info)
 	mkdir -p ./tmp
 	Rscript src/create_processed_data.R
@@ -15,14 +16,7 @@ tmp/process_data: data/raw_data.csv src/create_processed_data.R
 	@echo ""
 
 
-##############################################
-##############################################
-# 
 # define macros
-# 
-##############################################
-##############################################
-
 define print-target-and-prereq-info
 	@echo ""
 	@echo "Target is:"
