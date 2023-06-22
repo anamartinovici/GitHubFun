@@ -18,7 +18,7 @@ tmp/process_data: data/simulated_data.csv \
 
 # define macros
 define print-target-and-prereq-info
-	@echo ""
+	@echo "----- START -----"
 	@echo "Target is:"
 	echo $@
 	@echo ""
@@ -27,5 +27,5 @@ define print-target-and-prereq-info
 	@echo ""
 	@echo "The prerequisites newer than the target are:"
 	echo $?
-	@echo ""
+	@echo "----- END -----"
 endef
