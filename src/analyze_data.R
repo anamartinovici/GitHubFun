@@ -10,3 +10,4 @@ data_plot <- df_data %>%
 ggsave(plot = data_plot,
        filename = "tmp/data_summary.png", 
        width = 15, height = 10, units = "cm", dpi = 300, type = "cairo")
+
