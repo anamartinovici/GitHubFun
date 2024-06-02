@@ -1,5 +1,0 @@
-Hello world :)
-
-This is text added by Ana, as an example of how to fix merge conflicts.
-
-Trying to cause a merge conflict
