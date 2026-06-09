@@ -8,3 +8,5 @@ If you are a collaborator to this repository, you might receive email notificati
 - configuring watch settings for this repository: https://docs.github.com/en/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository
 
 Ana
+
+added new text to show how conflicts work
