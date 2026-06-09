@@ -1,0 +1,10 @@
+---
+title: "ThijsP"
+output: html_document
+date: "2026-06-09"
+---
+
+Hi,
+
+This is a test R markdown file of Thijs Pannekoek 
+
