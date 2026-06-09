@@ -10,5 +10,3 @@ If you are a collaborator to this repository, you might receive email notificati
 Ana
 
 added new text to show how conflicts work. I'm adding more text
-
-Test
