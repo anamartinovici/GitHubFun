@@ -1,0 +1,1 @@
+Hi, my name is Jeroen Rombouts. And I am looking forward to join the workshop 'introduction to git and github' on 23/06/26.
